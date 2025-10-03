@@ -1,4 +1,5 @@
 Status: Under Development
+
 The code is not yet fully implemented, but the directory structure and agent design are outlined below.
 
 
@@ -7,9 +8,13 @@ This prototype aims to showcase how Google ADK and Gemini reasoning can orchestr
 The planned agents include:
 
 -Impact Detection Agent – Detects collisions in real time.
+
 -Vehicle Tracking Agent – Monitors offender vehicle location and status.
+
 -Emergency Dispatch Agent – Summarizes data and sends alerts (Gemini-powered).
+
 -Forensic Agent – Collects and stores evidence and logs.
+
 -Victim Care Agent – Provides first-aid guidance and notifications.
 
 
